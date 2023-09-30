@@ -1,0 +1,80 @@
+id: IE1E32D1A
+ocr_import_info:
+  timestamp: '2023-09-29T16:05:27.404019+00:00'
+  batch_id: batch-a4f3
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharma Kyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-09-30 06:53:58.965286+00:00
+last_modified: 2023-09-30 06:53:58.965294+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W20479
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW20479
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། བློ་བཟང་ཚུལ་ཁྲིམས་བསྟན་པའི་རྒྱལ་མཚན།
+  languages:
+  - bo
+  author: ཏྲེ་ཧོར་ཁང་གསར་བློ་བཟང་ཚུལ་ཁྲིམས་བསྟན་པའི་རྒྱལ་མཚན།
+statistics:
+  ocr_word_mean_confidence_index: 0.9595498531184945
+  ocr_word_median_confidence_index: 0.99791807
+bases:
+  I5843:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5843
+      total_pages: 734
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5843.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99830097
+      ocr_word_mean_confidence_index: 0.962571993690208
+  I5842:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5842
+      total_pages: 550
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5842.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99842346
+      ocr_word_mean_confidence_index: 0.9654526873092737
+  I5844:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5844
+      total_pages: 600
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5844.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9983664649999999
+      ocr_word_mean_confidence_index: 0.9551555644725211
+  I5845:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5845
+      total_pages: 640
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I5845.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.995546995
+      ocr_word_mean_confidence_index: 0.9542236514281253
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
